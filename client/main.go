@@ -6,7 +6,7 @@ import (
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 
-	"../pb"
+	"github.com/zxc20033/plus-service/pb"
 
 	"github.com/gin-gonic/gin"
 )
